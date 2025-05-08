@@ -3,6 +3,7 @@
 
 ### Introduction
 A Python script used to assess sequenced genome fragments by counting both the frequency of substrings of length *k* (known as **k-mers**), and the character that follows it, and then returns those results in a text file. Also included in this repo is a file for input `reads.fa`, the output case of that file `result.csv`, and a file for various test cases, `test_kmer_info.py`. 
+###### The document for questions 1, 2, 3 is also included. 
 
 ### Requirements
 - Python 3.6+
